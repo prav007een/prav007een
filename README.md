@@ -1,5 +1,5 @@
 👋 Hi there! I'm Praveen
-I am a Computer Science student, who is currently exploring Python and its Ecosystem. Apart from coding, I practise coding😜.
+I am a Computer Science student, who is currently exploring Python and its Ecosystem. Apart from coding, I practise coding.
 
 Technologies and Tools:
 
